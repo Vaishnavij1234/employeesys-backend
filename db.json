@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "akashjk",
+      "company": "technoparkmmmmm",
+      "email": "akash@gmail.com",
+      "contact": 32145698,
+      "designation": "software engineer",
+      "avatar": "https://i.pravatar.cc/150?img=41"
+    },
+    {
+      "id": "0",
+      "name": "Vaishnavi J",
+      "company": "Emassy techno",
+      "email": "vaish@gmail.com",
+      "contact": 78945612,
+      "designation": "junior Engineer",
+      "avatar": "https://i.pravatar.cc/150?img=16"
+    },
+    {
+      "id": 0,
+      "name": "Vaishnavi J",
+      "company": "Emassy techno",
+      "email": "vaish@gmail.com",
+      "contact": 78945612,
+      "designation": "Engineer",
+      "avatar": "https://i.pravatar.cc/150?img=16"
+    },
+    {
+      "id": 0,
+      "name": "assa",
+      "company": "ascasbcjc",
+      "email": "jhajhs@gmail.com",
+      "contact": 12256345,
+      "designation": "asdas",
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 0,
+      "name": "vbnfkjb",
+      "company": "szdjkhfhh",
+      "email": "jhd@gmail.com",
+      "contact": 32145698,
+      "designation": "okasoid",
+      "avatar": "https://i.pravatar.cc/150?img=27"
+    }
+  ]
+}
